@@ -1,3 +1,4 @@
+// Copyright (c) Lion Kortlepel 2022
 const std = @import("std");
 
 pub fn build(b: *std.build.Builder) void {
